@@ -1,0 +1,6 @@
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\bin\Debug\Doc3Excer7-9.exe.config
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\bin\Debug\Doc3Excer7-9.exe
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\bin\Debug\Doc3Excer7-9.pdb
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\obj\Debug\Doc3Excer7-9.csprojAssemblyReference.cache
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\obj\Debug\Doc3Excer7-9.exe
+C:\Users\gi0rg\source\repos\Doc3Excer7-9\Doc3Excer7-9\obj\Debug\Doc3Excer7-9.pdb
